@@ -189,6 +189,7 @@ body {
 
 .user__email {
   display: block;
+  text-decoration: none;
   margin-top: 15px;
   color: rgb(253, 40, 40);
 }
